@@ -527,7 +527,7 @@ The browser's functionality is to present the web resource you choose, by
 requesting it from the server and displaying it in the browser window.
 The resource is usually an HTML document, but may also be a PDF,
 image, or some other type of content. The location of the resource is
-specified by the user using a URI (Uniform Resource Identifier).
+specified by the user using a URI (Uniform Resource Identifier)or URL(Uniform Resource Locators).
 
 The way the browser interprets and displays HTML files is specified
 in the HTML and CSS specifications. These specifications are maintained
@@ -537,7 +537,7 @@ standards organization for the web.
 Browser user interfaces have a lot in common with each other. Among the
 common user interface elements are:
 
-* An address bar for inserting a URI
+* An address bar for inserting a URI or URL
 * Back and forward buttons
 * Bookmarking options
 * Refresh and stop buttons for refreshing or stopping the loading of
@@ -688,6 +688,7 @@ Plugins such as Flash or Java may execute as well, although not at this time on
 the Google homepage. Scripts can cause additional network requests to be
 performed, as well as modify the page or its layout, causing another round of
 page rendering and painting.
+##    MORE RESOURCES 
 
 .. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
 .. _`"CSS lexical and syntax grammar"`: http://www.w3.org/TR/CSS2/grammar.html
